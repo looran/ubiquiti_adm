@@ -8,7 +8,7 @@
 
 usageexit() {
 	cat <<-_EOF
-usage: $0 [-q] <ubiquiti_host> <action>
+usage: $0 [-v] <ubiquiti_host> <action>
 action:
    system                : get system informations
    wifi-aps              : list wifi access points ssids

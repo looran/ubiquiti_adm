@@ -7,7 +7,7 @@ tested on Ubiquiti Unifi 7.2
 ### Usage
 
 ```bash
-usage: ./ubiquiti_adm [-q] <ubiquiti_host> <action>
+usage: ./ubiquiti_adm [-v] <ubiquiti_host> <action>
 action:
    system                : get system informations
    wifi-aps              : list wifi access points ssids
